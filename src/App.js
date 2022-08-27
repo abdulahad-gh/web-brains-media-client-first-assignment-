@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+
+import User from './Component/User';
 
 function App() {
-  return (
-    <div>
-      wbm
-    </div>
-  );
+  return <User />
 }
 
 export default App;
